@@ -1,3 +1,3 @@
 console.error("HALP")
 console.log("I would be a logger.") // get it?
-console.warn("This is your final warning")
+console.warn("This is your final warning!")
